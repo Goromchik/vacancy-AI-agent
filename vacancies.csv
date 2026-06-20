@@ -1,0 +1,21 @@
+﻿id,title,company,location,salary_min,salary_max,currency,experience,skills,remote,url
+1,Junior Data Analyst,Тинькофф,Санкт-Петербург,80000.0,120000.0,RUB,0-1 год,"Python, SQL, Excel, A/B тесты",да,https://hh.ru/vacancy/1
+2,Стажёр аналитик данных,Яндекс,Санкт-Петербург,,,,без опыта,"SQL, Python, статистика",да,https://hh.ru/vacancy/2
+3,Junior Product Analyst,VK,Санкт-Петербург,70000.0,100000.0,RUB,0-1 год,"SQL, Python, Tableau, продуктовые метрики",да,https://hh.ru/vacancy/3
+4,Data Analyst Intern,Сбер,Санкт-Петербург,50000.0,70000.0,RUB,без опыта,"Excel, SQL, Power BI",,https://hh.ru/vacancy/4
+5,Junior BI Analyst,Ozon,Москва,90000.0,130000.0,RUB,1-2 года,"SQL, Tableau, Looker, Python",да,https://hh.ru/vacancy/5
+6,Стажёр продуктовый аналитик,Тинькофф,Москва,55000.0,75000.0,RUB,без опыта,"SQL, Python, A/B тесты",да,https://hh.ru/vacancy/6
+7,Junior Data Scientist,Kaspersky,Санкт-Петербург,100000.0,150000.0,RUB,0-1 год,"Python, ML, pandas, scikit-learn",нет,https://hh.ru/vacancy/7
+8,Аналитик данных (junior),Avito,Санкт-Петербург,85000.0,115000.0,RUB,0-1 год,"SQL, Python, Airflow, Clickhouse",да,https://hh.ru/vacancy/8
+9,Data Analyst Trainee,Wildberries,Москва,,,,без опыта,"Excel, SQL",нет,https://hh.ru/vacancy/9
+10,Junior Data Analyst,Самокат,Москва,95000.0,125000.0,RUB,0-1 год,"Python, SQL, pandas, matplotlib",да,https://hh.ru/vacancy/10
+11,Data Scientist Intern,X5 Tech,Москва,70000.0,95000.0,RUB,без опыта,"Python, pandas, scikit-learn, ML",да,https://hh.ru/vacancy/11
+12,Junior Product Analyst,Lamoda,Санкт-Петербург,85000.0,,RUB,0-1 год,"SQL, Python, A/B тесты, продуктовые метрики",да,https://hh.ru/vacancy/12
+13,ML Intern,Сбер AI,Москва,90000.0,130000.0,RUB,без опыта,"Python, ML, pandas, scikit-learn, Git",нет,https://hh.ru/vacancy/13
+14,Junior Research Analyst,NielsenIQ,Санкт-Петербург,82000.0,98000.0,RUB,0-1 год,,да,https://hh.ru/vacancy/14
+15,Стажёр Data Engineer,Яндекс Практикум,Санкт-Петербург,75000.0,100000.0,RUB,без опыта,"Python, SQL, Airflow, ETL",,https://hh.ru/vacancy/15
+16,Junior Python Developer,МТС,Нижний Новгород,60000.0,90000.0,RUB,0-1 год,"Python, Django, PostgreSQL",нет,https://hh.ru/vacancy/16
+17,SMM-менеджер,Skillbox,Москва,85000.0,110000.0,RUB,0-1 год,"Контент-план, Telegram, VK Ads, копирайтинг",да,https://hh.ru/vacancy/17
+18,Менеджер по продажам,Skyeng,Москва,,,,без опыта,"Продажи, CRM, переговоры, B2C",да,https://hh.ru/vacancy/18
+19,Графический дизайнер,Okkam,Москва,70000.0,100000.0,RUB,0-1 год,"Figma, Photoshop, Illustrator",да,https://hh.ru/vacancy/19
+20,HR Intern,Mars,Москва,60000.0,75000.0,RUB,без опыта,"Подбор персонала, интервью, Excel",да,https://hh.ru/vacancy/20
